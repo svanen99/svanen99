@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Lisette!
-👩🏻‍💻 I am a FrontEnd App developer at Future Games Stockholm, Sweden<br/>
-🌷 I am new to coding but I am growing more and more for each day <br/>
-💭 Currently looking for an internship, hit me up on [LinkedIn](https://www.linkedin.com/in/lisette-svan-1940b3205/)<br/>
+# 👋 Hi, I'm Lisette! 
+<br>👩🏻‍💻 I am a FrontEnd App developer at Future Games Stockholm, Sweden <br/>
+<br>🌷 I am new to coding but I am growing more and more for each day <br/>
+<br>💭 Currently looking for an internship, hit me up on [LinkedIn](https://www.linkedin.com/in/lisette-svan-1940b3205/)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=svanen99&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -21,5 +21,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=svanen99&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=svanen99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
